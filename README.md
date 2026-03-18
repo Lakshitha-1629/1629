@@ -1,107 +1,47 @@
-<p align="center">
-<!-- START MATRIX BANNER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github.com/Lakshitha-1629/bot/blob/main/logo/NoMercy.png?raw=true" width="250">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF00,100:000000&height=240&section=header&text=NoMercy%20MD%20V1&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Cyber%20Hacking%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%"/>
 
-<h1 align="center">💀 N O M E R C Y - M D 💀</h1>
+<br><br>
 
-<p align="center">
-Cyber Hacker WhatsApp Bot | Owner Only | Advanced Bug Menu
-</p>
+<a href="https://github.com/yourusername/NoMercy-MD">
+  <img src="https://i.ibb.co/7QpKsCX/matrix.gif" width="95%" style="border-radius:20px; border:3px solid #00FF00; box-shadow:0 0 60px #00FF00;">
+</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&color=00FFEE&center=true&vCenter=true&width=700&lines=Full+Matrix+Hacker+Background;Floating+Glitch+Logo;Neon+Cyber+Panels+&+Buttons;Owner-Only+Menus;FF+Hacks+Coming+Soon;Hover+Glitch+Interactive+Buttons;Cyber+Hacker+International+Premium+Look">
-</p>
+<br><br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lakshitha-1629&label=Profile+Views&color=green&style=for-the-badge">
-<img src="https://img.shields.io/github/stars/Lakshitha-1629/bot?style=for-the-badge&color=red">
-<img src="https://img.shields.io/github/forks/Lakshitha-1629/bot?style=for-the-badge&color=purple">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=70&lines=💀+SYSTEM+BOOTING...;⚡+NOMERCY+ENGINE+ONLINE;🛡️+SECURITY+BYPASS+READY;🔥+ULTIMATE+HACKING+BOT&gradient=true"/>
 
----
+<br>
 
-## ⚡ CYBER SYSTEM INFO
+<img src="https://img.shields.io/badge/Version-V1.0.0-00FF00?style=for-the-badge&logo=git&logoColor=black&labelColor=000000">
+<img src="https://img.shields.io/badge/Status-ACTIVE-00FFAA?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000">
+<img src="https://img.shields.io/badge/Node.js-20+-00FF00?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000">
+<img src="https://img.shields.io/badge/Mode-HACKING-000000?style=for-the-badge&logo=hackaday&logoColor=00FF00">
 
-Bot Name   : NoMercy-MD  
-Version    : V1  
-System     : Full Matrix Hacker Control Bot  
-Team       : Out Of Metrix  
-Status     : Active  
-Access     : Owner Only  
+<br><br>
 
----
+<a href="https://github.com/yourusername/NoMercy-MD/stargazers">
+<img src="https://img.shields.io/github/stars/yourusername/NoMercy-MD?style=for-the-badge&color=00FF00&labelColor=000000">
+</a>
 
-## 👑 OWNER INFO
+<a href="https://github.com/yourusername/NoMercy-MD/fork">
+<img src="https://img.shields.io/github/forks/yourusername/NoMercy-MD?style=for-the-badge&color=00AA00&labelColor=000000">
+</a>
 
-Owner Name : Lakshitha  
-Control    : Full Access  
-Security   : Private System  
-Special    : Premium Cyber Access  
+<a href="https://github.com/yourusername/NoMercy-MD/issues">
+<img src="https://img.shields.io/github/issues/yourusername/NoMercy-MD?style=for-the-badge&color=00FFAA&labelColor=000000">
+</a>
+
+</div>
 
 ---
 
-## 🟢 BOT MENUS / PANELS
+## 💀 SYSTEM PREVIEW
 
-Main Menu  
-Bug Menu  
-Download Menu  
-Free Fire Hack Menu (Coming Soon)  
-Hover / Glitch Interactive Buttons  
-Neon Cyber Panels  
-
----
-
-## 💀 BUG MENU PREVIEW
-
-NoMercy Bug  
-Android Crash  
-Hard Delay  
-iOS Crash  
-Invisible Bug  
-
----
-
-## 🎮 FREE FIRE HACK MENU
-
-Status : Coming Soon  
-
----
-
-## 🌐 WEBSITE
-
-Official Website : Coming Soon  
-
----
-
-## ⚠ SYSTEM STATUS
-
-SYSTEM LOCKED  
-PUBLIC ACCESS : COMING SOON  
-OWNER ONLY : TRUE  
-
----
-
-## ⚡ CYBER TEAM
-
-Out Of Metrix  
-
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/POWERED%20BY-NOMERCY--MD-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/CYBER%20TEAM-OUT%20OF%20METRIX-blue?style=for-the-badge">
-</p>
-
-<p align="center">
-<!-- END MATRIX BANNER -->
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&color=FF0000&center=true&vCenter=true&width=650&lines=SYSTEM+LOCKED;OWNER+ONLY+ACCESS;PUBLIC+COMING+SOON;Glitch+Cyber+Panels;Premium+Hacker+Look">
-</p>
+```bash
+> Initializing NoMercy Core...
+> Injecting Modules ██████████
+> Bypassing Security...
+> Connecting to WhatsApp Servers...
+> SYSTEM ONLINE ✓
