@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
+  "name": "NoMercy-MD",
   "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "logo": "https://github.com/Lakshitha-1629/1629/blob/main/logo/NoMercy.png?raw=true",
+  "keywords": ["NoMercy-MD"],
   "success_url": "/",
 
   "env": {
