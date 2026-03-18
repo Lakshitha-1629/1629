@@ -3,12 +3,12 @@ const { cmd, commands } = require("../command");
 cmd(
   {
     pattern: "menu",
-    desc: "Displays all available commands",
+    desc: "Unlocks the control panel of NoMercy-MD — every command, every power, zero mercy.",
     category: "main",
     filename: __filename,
   },
   async (
-    danuwa,
+    Lakshitha,
     mek,
     m,
     {
@@ -29,7 +29,7 @@ cmd(
         });
       }
 
-      let menuText = "📋 *Available Commands:*\n";
+      let menuText = "💀 *NoMercy-MD Control Panel* 💀\n⚠️ Unauthorized access denied\n\n";
 
       for (const [cat, cmds] of Object.entries(categories)) {
         menuText += `\n📂 *${cat.toUpperCase()}*\n`;
